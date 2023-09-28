@@ -1,2 +1,4 @@
 # xpunity-app-repo
-Updated repository by me for Windows XP Unity Applications Manager. 
+This serves as a continuation for @legofanlovessayori's repository. It's not complete yet due to various stuff which isn't done yet, but it fixes grammatical issues, having only 32x32 icons (as original icons increased the size of the CAB file), link fixes, mirror changes, adding stuff which isn't present in legofanlovessayori's repository.
+
+The original repository can be found here: https://github.com/legofanlovessayori/xpunity-app-repo
