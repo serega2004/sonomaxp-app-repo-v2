@@ -1,0 +1,12 @@
+[Section]
+Name = LibreOffice Help Pack (ja-JP)
+Version = 5.4.7.2
+License = MPL
+LicenseInfo = 1
+Description = Documentation for Apache LibreOffice, a open source Office suite. Japanese version.
+Category = 6
+URLSite = https://www.libreoffice.org
+URLDownload = https://downloadarchive.documentfoundation.org/libreoffice/old/5.4.7.2/win/x86/LibreOffice_5.4.7.2_Win_x86_helppack_ja.msi
+SHA1 = 166d1381a58b356510b31dd9af0a1495b8d7fb33
+SizeBytes = 7507986
+Icon = libreoffice.ico

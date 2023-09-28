@@ -1,0 +1,12 @@
+[Section]
+Name = NeoGeniX LS
+Version = 1.0
+License = Unknown
+LicenseInfo = 1
+Description = This requires UltraUXThemePatcher to be installed!
+Category = 15
+URLSite = Unknown
+URLDownload = http://archive.org/download/xpunity-appmgr-mirror-3/NeoGeniX.zip
+SHA1 = f6665add5efa5f49b235c9282abbd0bb9f0d67a0
+SizeBytes = 998679
+Icon = theme.ico

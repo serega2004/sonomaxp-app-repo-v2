@@ -1,0 +1,12 @@
+[Section]
+Name = ChaNinja Style
+Version = RC5
+License = Unknown
+LicenseInfo = 1
+Description = This requires UltraUXThemePatcher to be installed!
+Category = 15
+URLSite = Unknown
+URLDownload = http://archive.org/download/xpunity-appmgr-mirror-3/chaninja.zip
+SHA1 = 98fbfba9cbfb8315d58d4d053a41d2b705def82b
+SizeBytes = 1670743
+Icon = theme.ico

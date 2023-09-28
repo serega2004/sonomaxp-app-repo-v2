@@ -1,0 +1,12 @@
+[Section]
+Name = Black Mesa
+Version = 2.0
+License = Unknown
+LicenseInfo = 1
+Description = A dark yet professional and clean theme for everyday use. This requires UltraUXThemePatcher to be installed!
+Category = 15
+URLSite = https://www.deviantart.com/valkyre
+URLDownload = http://archive.org/download/xpunity-appmgr-mirror-3/blkmesa.zip
+SHA1 = ba46a7dbed202da6ba706a4c86d1190485421066
+SizeBytes = 525685
+Icon = theme.ico

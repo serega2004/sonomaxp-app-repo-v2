@@ -1,0 +1,12 @@
+[Section]
+Name = Disney's It's a Magical World
+Version = 2.0
+License = Unknown
+LicenseInfo = 1
+Description = Disney theme. This requires UltraUXThemePatcher to be installed!
+Category = 15
+URLSite = http://www.theskinsfactory.com
+URLDownload = http://archive.org/download/xpunity-appmgr-mirror-3/disney.zip
+SHA1 = e0cc042a7c18ead3fea6bd98b1d35ccd85c8a964
+SizeBytes = 8167398
+Icon = theme.ico

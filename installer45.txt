@@ -1,0 +1,14 @@
+[Section]
+Name = Windows Installer
+Version = 4.5
+License = Unknown
+Description = Windows Installer Runtime update.
+Category = 11
+URLSite = https://legacyupdate.net/download-center/download/8483/windows-installer-4.5-redistributable
+URLDownload = http://archive.org/download/xpunity-appmgr-mirror-3/WindowsServer2003-KB942288-v4-x86.exe
+SizeBytes = 1079672
+
+[Section.amd64]
+URLDownload = http://archive.org/download/xpunity-appmgr-mirror-3/WindowsServer2003-KB942288-v4-x64.exe
+SHA1 = 9724f8b3c12fadeee26cd68e139f515cee28acee
+SizeBytes = 3071512
