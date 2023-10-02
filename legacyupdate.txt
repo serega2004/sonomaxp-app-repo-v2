@@ -1,0 +1,11 @@
+[Section]
+Name = Legacy Update
+Version = 1.7.1
+License = Unknown
+Description = Restores the long deprecated Windows Update functionality on Windows 2000+
+Category = 11
+URLSite = https://legacyupdate.net
+URLDownload = http://content.legacyupdate.net/legacyupdate/LegacyUpdate-1.7.1.exe
+SHA1 = 66E7EDEE11D26A3A1C10466380F372D07B92BF31
+SizeBytes = 350039
+Icon = legacyupdate.ico
