@@ -1,5 +1,5 @@
 [Section]
-Name = Mozilla Firefox (non-SSE CPU's)
+Name = Mozilla Firefox (non-SSE CPUs)
 Version = 45.9.0esr
 License = MPL/GPL/LGPL
 Description = A popular Web browser. Free and open source, made by a global community. Last version for CPU's without SSE support (Pentium II, etc)
